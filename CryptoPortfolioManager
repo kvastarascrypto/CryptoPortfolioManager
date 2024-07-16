@@ -1,0 +1,15 @@
+CryptoPortfolioManager/
+├── .env
+├── app.js
+├── package.json
+├── models/
+│   └── portfolio.js
+├── public/
+│   ├── css/
+│   │   └── styles.css
+├── views/
+│   ├── index.ejs
+│   ├── add.ejs
+│   └── edit.ejs
+└── routes/
+    └── index.js
